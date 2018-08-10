@@ -23,7 +23,7 @@ xcuserdata/
 *.xcscmblueprint
 
 *.deb
-.DS-Store
+.DS_Store
 
 ## Obj-C/Swift specific
 *.hmap
